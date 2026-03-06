@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    border: 0;
+    display: inline-block;
+}
+
+.larg {
+    width: 10%;
+}
+
+h6 {
+    float: left;
+}
+
+img {
+    width: 100%;
+}
+
+#logo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    float: left;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+}
+
+.botao_inscriçao {
+    background-color: #00839c;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 125px;
+}
+
+.botao_alojamento {
+    background-color: #1ABEA3;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 135px;
+}
+
+.botao_avaex {
+    background-color: #709204;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 250px;
+}
+
+.alinha_centro {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
