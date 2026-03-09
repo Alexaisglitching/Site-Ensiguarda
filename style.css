@@ -1,36 +1,16 @@
-body {
-    margin: 0;
-    border: 0;
-    display: inline-block;
-}
-
-.larg {
-    width: 10%;
-}
-
-h6 {
-    float: left;
-}
-
 img {
     width: 100%;
 }
 
-#logo {
-    width: 100%;
-    display: flex;
-    align-items: center;
-}
-
 li {
-    float: left;
-    padding: 15px;
-    color: rgb(0, 0, 0);
+    float:left;
     list-style-type: none;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
-.botao_inscriçao {
-    background-color: #00839c;
+.botao_inscricao {
+    background-color: #00839C;
     padding: 10px;
     border-radius: 50px;
     color: white;
@@ -47,7 +27,7 @@ li {
     width: 135px;
 }
 
-.botao_avaex {
+.botao_avaliacao {
     background-color: #709204;
     padding: 10px;
     border-radius: 50px;
@@ -61,4 +41,9 @@ li {
     text-align: center;
     display: flex;
     justify-content: center;
+}
+
+.titulos {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
