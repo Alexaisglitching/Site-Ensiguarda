@@ -62,3 +62,8 @@ li {
     display: flex;
     justify-content: center;
 }
+
+.titulos {
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
